@@ -5,11 +5,7 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-<<<<<<< HEAD
         <version>3.1.0</version>
-=======
-        <version>3.1.1</version>
->>>>>>> 2831be658ff5e3cb4488a8d2f0c21ff5d2ffb322
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
@@ -23,7 +19,6 @@
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
-<<<<<<< HEAD
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
         <dependency>
@@ -57,25 +52,13 @@
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-validation</artifactId>
-        </dependency>
-=======
-            <artifactId>spring-boot-starter</artifactId>
-        </dependency>
-
->>>>>>> 2831be658ff5e3cb4488a8d2f0c21ff5d2ffb322
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
-<<<<<<< HEAD
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-validation</artifactId>
         </dependency>
-=======
->>>>>>> 2831be658ff5e3cb4488a8d2f0c21ff5d2ffb322
     </dependencies>
 
     <build>
